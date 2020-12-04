@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    width: 900px;
+    margin-left:50px;
+    letter-spacing: -1px;
+}
+
+#titulo {
+    font-size: 37px;
+    color: #000000;
+    line-height: 46px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    margin-right: 5%;
+    margin-bottom: 3%;
+}
+
+.subtitulo {
+    font-size: 25px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    line-height: 38px;
+    font-weight: 400;
+    margin-bottom: 4%;
+}
+#bajada {
+    font-size: 18px;
+    color: #666;
+    font-weight: 500;
+    margin-right: 5%;
+    margin-bottom: 4%;
+}
+#nacion {
+    font-weight: bold;
+}
+
+p{
+    margin-right: 170px;
+    margin-bottom: 4%;
+}
+
+#imag {
+    margin-bottom: 2%;
+    border-style: solid;
+    border-color: rgb(211, 210, 210);
+    border-width: 0.3ch;
+}
